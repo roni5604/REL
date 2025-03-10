@@ -1,0 +1,11 @@
+.navbar-brand img {
+    height: 70px; /* Adjust the height as needed */
+  }
+  
+  .navbar-nav {
+    margin-left: auto; /* Align the navigation links to the right */
+  }
+
+  body {
+    padding-top: 80px; /* Adjust the padding to match the height of your navbar */
+  }
